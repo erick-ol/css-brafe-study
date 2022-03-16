@@ -1,6 +1,6 @@
 ## CSS Positioning
 
-This repo I used while I was studying the [CSS Avançado Posicionamento](https://www.origamid.com/curso/css-avancado-posicionamento/) course where I was able to make 3 different websites from a Cafe, using on the most of them:
+This repo I used while I was studying the [CSS Avançado Posicionamento](https://www.origamid.com/curso/css-avancado-posicionamento/) course where I was able to make 3 different websites from a Cafe, using in most of them:
  - Pure CSS
  - Grid
  - Flexbox
